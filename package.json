@@ -21,6 +21,7 @@
   },
   "types": "./dist/index.d.ts",
   "style": "dist/firebaseui.css",
+  "main": "dist/npm.js",
   "scripts": {
     "build": "gulp",
     "build-all": "gulp build-all",
