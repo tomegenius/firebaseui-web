@@ -58,7 +58,7 @@
     "protractor": "^7.0.0",
     "sass": "^1.49.7",
     "streamqueue": "^1.1.1",
-    "chromedriver": "^119.0.1"
+    "chromedriver": "^134.0.2"
   },
   "dependencies": {
     "dialog-polyfill": "^0.4.7",
