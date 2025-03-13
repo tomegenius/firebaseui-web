@@ -68,5 +68,5 @@ $ ./buildAll.zx
 ```
 
 ## Questions
-1. Ask on Discord https://discord.gg/46rDVTTbut
+- Ask on Discord https://discord.gg/46rDVTTbut
 
