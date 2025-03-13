@@ -2,13 +2,8 @@
   "name": "firebaseui",
   "version": "6.1.2",
   "description": "Javascript library for customizable UI on top of Firebase SDK",
-  "files": [
-    "dist/firebaseui.js",
-    "dist/firebaseui.css",
-    "dist/npm.js",
-    "dist/esm.js",
-    "dist/index.d.ts",
-    "dist/externs",
+  "files": [    
+    "dist/*",
     "LICENSE",
     "README.md",
     "package.json"
