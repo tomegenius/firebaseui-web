@@ -1,6 +1,6 @@
 {
   "name": "tg-firebaseui",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Phat fork of FirebaseUI Web - with prebuilt locales.",
   "files": [
     "dist/",
