@@ -1,7 +1,7 @@
 {
-  "name": "firebaseui",
+  "name": "tg-firebaseui",
   "version": "6.1.3",
-  "description": "Javascript library for customizable UI on top of Firebase SDK",
+  "description": "Fork - Javascript library for customizable UI on top of Firebase SDK",
   "files": [    
     "dist/*",
     "LICENSE",
