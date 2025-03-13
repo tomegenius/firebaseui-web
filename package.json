@@ -32,14 +32,7 @@
     "generate-test-files": "./buildtools/generate_test_files.sh"
   },
   "test": "npm run test",
-  "author": "Google",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/firebase/firebaseui-web.git"
-  },
-  "publishConfig": {
-    "registry": "https://wombat-dressing-room.appspot.com"
-  },
+  "author": "Google",  
   "license": "Apache-2.0",
   "devDependencies": {
     "closure-builder": "^2.3.7",
